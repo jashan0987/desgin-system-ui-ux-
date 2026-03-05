@@ -40,7 +40,7 @@ This design system includes:
 
 View the complete design system here:
 
-👉 **Figma Link:** (Add your Figma prototype link here)
+👉 **Figma Link:** ([Add your Figma prototype link here](https://www.figma.com/proto/O7hBH7xJN7m5jGwCTCBpt0/complete-ui-ux-design?page-id=30%3A294&node-id=30-295&viewport=135%2C192%2C0.4&t=yr3YPUbIlMhEAr5g-1&scaling=scale-down&content-scaling=fixed))
 
 ---
 
